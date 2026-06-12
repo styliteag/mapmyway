@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.2 — 2026-06-12
+
+
+**Deutsch**
+
+- Aktualisierte Tracking-Engine (LocoKit2)
+- Interne Verbesserungen an Stabilität und Diagnose-Logging
+
+
+**English**
+
+- Updated tracking engine (LocoKit2)
+- Internal stability and diagnostics-logging improvements
+
 ## 1.2.1 — 2026-06-12
 
 
