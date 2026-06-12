@@ -5,6 +5,22 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.1 — 2026-06-12
+
+
+**Deutsch**
+
+- Kalender: der Tages-Streifen reicht jetzt beliebig weit zurück und folgt Sprüngen über das Kalender-Widget (vorher Limit: 30 Tage)
+- Neu: „Unbekannte Orte benennen“ (Einstellungen → Orte) — häufig besuchte Orte ohne Namen, meistbesuchte zuerst; ein Name benennt alle Besuche auf einmal
+- Neu: „Was ist neu“-Link im Hilfe-Bereich führt zur vollständigen Änderungsübersicht
+
+
+**English**
+
+- Calendar: the day strip now reaches arbitrarily far back and follows date-picker jumps (previously limited to 30 days)
+- New: "Name Unknown Places" (Settings → Places) — frequently visited spots without a name, most visited first; one name covers all visits at once
+- New: "What's New" link in the help section opens the full changelog
+
 ## 1.2.0 — 2026-06-12
 
 
