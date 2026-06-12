@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.3 — 2026-06-12
+
+
+**Deutsch**
+
+- Behebt einen Absturz beim Wechsel in den Hintergrund während der Timeline-Verarbeitung
+- Datenbank-Zugriffe werden vor dem Schlafenlegen der App jetzt sauber abgeschlossen
+
+
+**English**
+
+- Fixes a crash when the app moved to the background during timeline processing
+- Database access is now wound down cleanly before the app is suspended
+
 ## 1.2.2 — 2026-06-12
 
 
