@@ -5,6 +5,18 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.4 — 2026-06-14
+
+
+**Deutsch**
+
+- Ortsverwaltung: Fehler beim Löschen oder Zusammenführen eines Orts werden jetzt als Hinweis angezeigt, statt die Ansicht stillschweigend zu schließen
+
+
+**English**
+
+- Place management: errors when deleting or merging a place are now surfaced as a banner instead of silently dismissing the screen
+
 ## 1.2.3 — 2026-06-12
 
 
