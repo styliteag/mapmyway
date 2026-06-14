@@ -5,6 +5,32 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.8 — 2026-06-15
+
+
+**Deutsch**
+
+- „Backups verwalten" aufgeräumt: Der Cloud-Tab zeigt nur noch einen Eintrag, der den Backup-Dialog öffnet. Im Dialog stehen jetzt voller Dateiname und Größe je Backup, der Speicherort (iCloud Drive › MapMyWay › Backups), und Löschen läuft über einen Papierkorb-Knopf statt Wischen (Antippen stellt wieder her).
+
+
+**English**
+
+- Tidied "Manage Backups": the Cloud tab now shows a single entry that opens the backup dialog. The dialog lists each backup's full filename and size, where they live (iCloud Drive › MapMyWay › Backups), and deletes via a trash button instead of swipe (tap a row to restore).
+
+## 1.2.7 — 2026-06-14
+
+
+**Deutsch**
+
+- Neuer Bereich „Backups verwalten" (Cloud-Tab): zeigt deine iCloud-Backups mit echtem Datum, ein Tippen stellt ein Backup wieder her (mit Fortschrittsanzeige), und einzelne Backups lassen sich per Wischen löschen. Wiederherstellen ersetzt alle aktuellen Daten und wird vorher klar bestätigt.
+- „Demo-Daten laden" fragt jetzt zweimal nach — damit Beispieldaten nicht versehentlich auf einem Gerät mit echten Aufzeichnungen geladen werden.
+
+
+**English**
+
+- New "Manage Backups" section (Cloud tab): shows your iCloud backups with their real date, tap one to restore it (with a progress readout), and swipe to delete individual backups. Restoring replaces all current data and is clearly confirmed first.
+- "Load demo data" now asks twice — so sample data isn't loaded by accident on a device that already holds real recordings.
+
 ## 1.2.6 — 2026-06-14
 
 
