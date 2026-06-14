@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.5 — 2026-06-14
+
+
+**Deutsch**
+
+- Akku im Hintergrund: Wenn iOS die App ohne Bildschirm aufweckt (für ein Standort-Ereignis), läuft jetzt nur noch die Aufzeichnung. Schwere Wartung — Aufräumen, Import-Reparatur, iCloud-Auflösung, Export-Nachholung — wartet, bis du die App öffnest. Spart Akku, besonders im Aufzeichnungsmodus ohne Status-Anzeige.
+- Einstellungen → Batterie zeigt jetzt die App-Starts (Hintergrund- gegenüber Vordergrund-Starts) neben der CPU-Zeit — so siehst du, wie oft iOS die App im Hintergrund neu startet.
+
+
+**English**
+
+- Background battery: when iOS wakes the app without showing it (for a location event), only recording runs now. Heavy maintenance — cleanup, import repair, iCloud resolution, export catch-up — waits until you open the app. Saves battery, especially in the no-indicator recording mode.
+- Settings → Battery now shows app launches (background vs foreground) next to CPU time, so you can see how often iOS relaunches the app in the background.
+
 ## 1.2.4 — 2026-06-14
 
 
