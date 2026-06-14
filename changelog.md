@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.9 — 2026-06-15
+
+
+**Deutsch**
+
+- Cloud-Tab aufgeräumt: Die Sicherungs-Aktionen stehen jetzt in logischer Reihenfolge — Jetzt sichern, wann zuletzt gesichert, Backups verwalten, Aus Backup wiederherstellen — und die Knöpfe haben einen einheitlichen Look.
+- Im „Backups verwalten"-Dialog hat jeder Eintrag eigene Knöpfe für Wiederherstellen und Löschen (beide mit Sicherheitsabfrage).
+
+
+**English**
+
+- Tidied the Cloud tab: backup actions are now in a logical order — Backup Now, last-backup status, Manage Backups, Restore from Backup — with a uniform button look.
+- In the "Manage Backups" dialog each entry now has its own Restore and Delete buttons (both with a confirmation prompt).
+
 ## 1.2.8 — 2026-06-15
 
 
