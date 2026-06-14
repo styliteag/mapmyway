@@ -5,6 +5,18 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.6 — 2026-06-14
+
+
+**Deutsch**
+
+- Behebt: Nach „Demo-Daten laden" gab es keinen sichtbaren Weg zurück zu den eigenen Daten — die App zeigte dann nur noch Beispieldaten. Der Demo-Bereich in den Einstellungen hat jetzt einen „Meine Daten anzeigen"-Schalter, der zurückschaltet und die Demo-Daten wieder entfernt. Deine echten Aufzeichnungen sind dabei nie betroffen — sie waren nur ausgeblendet, nicht gelöscht.
+
+
+**English**
+
+- Fix: after "Load demo data" there was no visible way back to your own data — the app would then show only sample data. The Demo section in Settings now has a "Show my data" action that switches back and removes the demo data. Your real recordings are never affected — they were only hidden, not deleted.
+
 ## 1.2.5 — 2026-06-14
 
 
