@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.10 — 2026-06-15
+
+
+**Deutsch**
+
+- Cloud- und Einstellungen-Tab aufgeräumt: Der iCloud-Status steht jetzt als eine ruhige Zeile (statt zwei großer Kacheln), der Einstellungen-Titel ist in der Serifenschrift der App, der Hilfe-Bereich ist eine Liste, und Texte wurden korrigiert (u. a. der irreführende Untertitel).
+- Bedienungshilfen: Aufzeichnungs-Schalter sowie Einheiten- und Erscheinungsbild-Menüs haben jetzt VoiceOver-Beschriftungen.
+
+
+**English**
+
+- Tidied the Cloud and Settings tabs: iCloud status is now a single quiet line (instead of two large cards), the Settings title uses the app's serif, the Help area is a list, and some copy was corrected (including a misleading subtitle).
+- Accessibility: the tracking toggle and the Units/Appearance menus now have VoiceOver labels.
+
 ## 1.2.9 — 2026-06-15
 
 
