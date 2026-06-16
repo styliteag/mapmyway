@@ -5,6 +5,22 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.11 — 2026-06-16
+
+
+**Deutsch**
+
+- „Alte Daten verdichten" arbeitet jetzt mit einem klaren Jahres-Stichtag: Du wählst „Vor JJJJ" statt „älter als X Jahre", damit immer eindeutig ist, was verdichtet wird.
+- Neu: „Alte Daten löschen" — entfernt dauerhaft alle Einträge, Samples und danach unbenutzten Orte vor einem gewählten Jahr (mit zweistufiger Sicherheitsabfrage; die Aufzeichnung pausiert und läuft danach weiter).
+- Neu: „Unbenutzte Orte löschen" — räumt Orte ohne verbleibende Besuche auf. Beide Lösch-Aktionen lassen die letzten Monate unangetastet.
+
+
+**English**
+
+- "Compact Old Data" now uses a clear yearly cutoff: pick "Before YYYY" instead of "older than X years", so it's always unambiguous what gets compacted.
+- New: "Delete Old Data" — permanently removes all items, samples, and the places left unused from before a chosen year (two-step confirmation; recording pauses and resumes afterwards).
+- New: "Delete Unused Places" — tidies up places with no visits left. Both delete actions leave the most recent months untouched.
+
 ## 1.2.10 — 2026-06-15
 
 
