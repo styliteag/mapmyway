@@ -5,6 +5,18 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.12 — 2026-06-16
+
+
+**Deutsch**
+
+- „Unbenutzte Orte löschen" und „Alle Daten löschen" zeigen jetzt sofort einen Ladekreis, während im Hintergrund gezählt wird — vorher wirkte der Knopf ein paar Sekunden lang tot, bis die Abfrage erschien.
+
+
+**English**
+
+- "Delete Unused Places" and "Wipe All Data" now show a spinner the moment you tap, while the counts are gathered in the background — previously the button looked dead for a few seconds until the prompt appeared.
+
 ## 1.2.11 — 2026-06-16
 
 
