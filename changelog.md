@@ -5,6 +5,26 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.16 — 2026-07-02
+
+
+**Deutsch**
+
+- Deutlich sparsamer beim Akku: halb so viele Datenbank-Schreibzyklen während der Aufzeichnung, sparsamere Verarbeitung der Ortungsdaten bei Autofahrten, und die App verzichtet im Hintergrund auf unnötige Anzeige-Aktualisierungen und Statusabfragen.
+- Automatische Exporte laufen nur noch, wenn das Gerät lädt, und werden nach längeren Pausen in Etappen nachgeholt statt in einem großen Schub.
+- Aktivitätserkennung im Hintergrund läuft jetzt garantiert ohne Grafikchip — stabiler und stromsparender.
+- Korrigierte Modus-Beschreibung: Am wenigsten Akku braucht „Battery saver", nicht der Modus mit Standort-Pfeil.
+- Bitte testen: Batterielaufzeit über 1–2 Tage normaler Nutzung beobachten und Auffälligkeiten melden.
+
+
+**English**
+
+- Much easier on the battery: half the database write cycles while recording, leaner location processing during drives, and no more unnecessary display refreshes or status polling while the app is in the background.
+- Automatic exports now only run while the device is charging, and catch up in stages after longer gaps instead of one big burst.
+- Background activity recognition now runs guaranteed GPU-free — more stable and more power-efficient.
+- Corrected mode description: "Battery saver" uses the least battery, not the mode with the location arrow.
+- Please test: watch battery life over 1–2 days of normal use and report anything unusual.
+
 ## 1.2.12 — 2026-06-16
 
 
