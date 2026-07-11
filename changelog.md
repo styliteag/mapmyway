@@ -5,6 +5,24 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.17 — 2026-07-11
+
+
+**Deutsch**
+
+- Kein Standort-Pfeil mehr: Die Aufzeichnung läuft jetzt über einen neuen Hintergrund-Mechanismus, der ohne den Pfeil in der Statusleiste auskommt — und trotzdem lückenlos aufzeichnet.
+- Die Auswahl „Hintergrund-Aufzeichnung" (Pfeil / Kein Pfeil / Sparmodus) entfällt: Der neue Mechanismus vereint alle drei Vorteile (lückenlos, kein Pfeil, sparsam), ein Kompromiss ist nicht mehr nötig. Die Genauigkeits-Einstellung bleibt.
+- Abfahrten nach längeren Stopps sollten deutlich schneller erkannt werden als bisher im Sparmodus.
+- Bitte testen: Wird eine Fahrt direkt nach einem langen Halt sofort erfasst? Bleibt die Statusleiste wirklich frei vom Pfeil? Und wie entwickelt sich die Batterie über 1–2 Tage — auch nach dem manuellen Beenden der App?
+
+
+**English**
+
+- No more location arrow: recording now uses a new background mechanism that works without the status-bar arrow — while still recording without gaps.
+- The "Background Recording" choice (Arrow / No arrow / Saver) is gone: the new mechanism combines all three benefits (gapless, no arrow, frugal), so there is no trade-off to pick anymore. The Accuracy setting stays.
+- Departures after longer stops should be detected much faster than in the previous battery-saver mode.
+- Please test: does a trip right after a long stop get captured immediately? Does the status bar really stay free of the arrow? And how does battery hold up over 1–2 days — including after force-quitting the app?
+
 ## 1.2.16 — 2026-07-02
 
 
