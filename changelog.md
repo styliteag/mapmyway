@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.18 — 2026-07-15
+
+
+**Deutsch**
+
+- Zuverlässigere Aufzeichnung im Hintergrund: Wenn iOS die App nach einer Pause neu startet, hält sie sich jetzt selbst am Leben, bis die Aufzeichnung wieder stabil läuft. Vorher konnten dabei stundenlange Lücken in der Timeline entstehen und besuchte Orte wurden nicht erkannt.
+- Die Genauigkeits-Einstellung (Hoch/Mittel/Niedrig) ist entfernt. Die App nutzt jetzt immer das stromsparende GPS-Tuning der Aufnahme-Engine — gleiche Ortserkennung, deutlich weniger Akkuverbrauch, besonders über Nacht.
+
+
+**English**
+
+- More reliable background recording: when iOS relaunches the app after a pause, it now keeps itself alive until recording is fully anchored again. Previously this could leave hours-long gaps in your timeline and visited places went undetected.
+- The accuracy setting (High/Balanced/Low) has been removed. The app now always uses the recording engine's power-efficient GPS tuning — same place detection, noticeably less battery drain, especially overnight.
+
 ## 1.2.17 — 2026-07-11
 
 
