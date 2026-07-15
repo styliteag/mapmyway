@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.19 — 2026-07-15
+
+
+**Deutsch**
+
+- Deutlich weniger Schreiblast auf der Datenbank: Jeder aufgezeichnete Punkt wird jetzt nur noch einmal gespeichert statt zweimal. Das senkt den Stromverbrauch im Hintergrund weiter und schont den Speicher.
+- Zweite Absicherung gegen Aufzeichnungslücken: Die Aufnahme-Engine hält sich nach einem Neustart durch iOS jetzt auch selbst am Leben, bis die Aufzeichnung verankert ist — zusätzlich zum Schutz aus 1.2.18.
+
+
+**English**
+
+- Much lower database write load: every recorded point is now saved once instead of twice. This further reduces background battery drain and eases storage wear.
+- Second safeguard against recording gaps: the recording engine now also keeps itself alive after an iOS relaunch until recording is anchored — on top of the protection added in 1.2.18.
+
 ## 1.2.18 — 2026-07-15
 
 
