@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.20 — 2026-07-17
+
+
+**Deutsch**
+
+- Fahrten werden nach einem Neustart zuverlässiger weiterverarbeitet, damit keine langen, leeren Fahrten entstehen.
+- Die Aufzeichnung im Hintergrund ist stabiler.
+
+
+**English**
+
+- Trips are processed more reliably after restarting the app, preventing long empty trips.
+- Background recording is more reliable.
+
 ## 1.2.19 — 2026-07-15
 
 
