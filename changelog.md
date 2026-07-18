@@ -5,6 +5,22 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.21 — 2026-07-18
+
+
+**Deutsch**
+
+- Lange „ewige“ Fahrten, die nicht enden, werden verhindert: Stops werden wieder als Besuch erkannt.
+- Die Aufzeichnung im Hintergrund bleibt länger aktiv, bis der Sleep-Modus greift.
+- Orphaned GPS-Samples werden nicht mehr fälschlich an eine laufende Fahrt gehängt.
+
+
+**English**
+
+- Prevents long “eternal” trips that never end: stops are recognized as visits again.
+- Background recording stays active until sleep mode can take over.
+- Orphaned GPS samples are no longer wrongly attached to an ongoing trip.
+
 ## 1.2.20 — 2026-07-17
 
 
