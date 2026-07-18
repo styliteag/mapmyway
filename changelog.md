@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.23 — 2026-07-18
+
+
+**Deutsch**
+
+- Die App bleibt beim Datenbank-Update bedienbar und zeigt einen Hinweis „Datenbank wird aktualisiert…“, statt im Hintergrund vom System beendet zu werden.
+- Behebt einen Watchdog-Absturz, der direkt nach dem Update auf 1.2.22 auftreten konnte.
+
+
+**English**
+
+- The app stays responsive during database updates and shows an “Updating database…” screen instead of being killed by the system in the background.
+- Fixes a watchdog crash that could happen right after updating to 1.2.22.
+
 ## 1.2.22 — 2026-07-18
 
 
