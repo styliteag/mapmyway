@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.24 — 2026-07-19
+
+
+**Deutsch**
+
+- Genauere Spuren bei Fahrten im Hintergrund: Die Aufzeichnung bleibt aktiv, statt nur alle paar Minuten aufzuwachen (keine „Zickzack“-Sprünge mehr auf der Karte).
+- Betrifft vor allem längere Autofahrten, während das Display aus ist.
+
+
+**English**
+
+- More accurate tracks while driving in the background: recording stays active instead of waking only every few minutes (no more zig-zag jumps on the map).
+- Especially improves longer car trips with the screen off.
+
 ## 1.2.23 — 2026-07-18
 
 
