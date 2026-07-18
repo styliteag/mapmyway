@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.22 — 2026-07-18
+
+
+**Deutsch**
+
+- Behebt die eigentliche Ursache der „ewigen Fahrten“: Ein fehlendes Datenbank-Update verhinderte seit 1.2.20, dass neue Besuche gespeichert werden konnten. Stopps werden jetzt wieder als Besuch erkannt und beenden laufende Fahrten.
+- Künftige Datenbank-Updates werden automatisch angewendet, damit so etwas nicht wieder passieren kann.
+
+
+**English**
+
+- Fixes the real cause of the “eternal trips”: a missing database update prevented new visits from being saved since 1.2.20. Stops are recognized as visits again and end ongoing trips.
+- Future database updates are applied automatically so this cannot happen again.
+
 ## 1.2.21 — 2026-07-18
 
 
