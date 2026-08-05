@@ -5,6 +5,22 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.25 — 2026-08-06
+
+
+**Deutsch**
+
+- Aufzeichnungslücken (z. B. nach Beenden der App oder über Nacht) werden nicht mehr von gestreckten Besuchen überdeckt — die Timeline zeigt jetzt ehrlich, wo keine Daten aufgezeichnet wurden.
+- Bessere Akkulaufzeit im Ruhemodus: Der Ortungsdienst startet nachts deutlich seltener neu.
+- Interne Verbesserungen an Datenbank und Export-Format.
+
+
+**English**
+
+- Recording gaps (e.g. after the app was closed or overnight) are no longer hidden by stretched visits — the timeline now honestly shows where no data was recorded.
+- Better battery life while sleeping: the location service restarts far less often at night.
+- Internal improvements to the database and export format.
+
 ## 1.2.24 — 2026-07-19
 
 
