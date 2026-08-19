@@ -5,6 +5,22 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.26 — 2026-08-20
+
+
+**Deutsch**
+
+- Ruhigere Wegaufzeichnung in Tunneln, U-Bahnen und Tiefgaragen: stark verrauschte Positionen werden jetzt deutlich stärker geglättet.
+- Übergänge zwischen Fahrten werden nicht mehr gegen bereits bestätigte Fahrtarten verschoben.
+- Interne Verbesserungen an Orten und Datenbank.
+
+
+**English**
+
+- Calmer path recording in tunnels, subways and underground car parks: very noisy positions are now smoothed much more.
+- Boundaries between trips are no longer shifted against activity types you already confirmed.
+- Internal improvements to places and the database.
+
 ## 1.2.25 — 2026-08-06
 
 
