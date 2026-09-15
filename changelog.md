@@ -5,6 +5,22 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.27 — 2026-09-15
+
+
+**Deutsch**
+
+- Zwei alleinstehende Einträge (z. B. ein Aufenthalt und eine Fahrt ohne weitere Nachbarn) lassen sich jetzt zusammenführen. Vorher schlug das Zusammenführen still fehl.
+- Absturz behoben, der beim Berechnen der Geschwindigkeits-Statistik eines Ortes auftreten konnte.
+- Erstellt mit dem iOS-27-SDK.
+
+
+**English**
+
+- Two isolated entries (for example a visit and a trip with no other neighbours) can now be merged. Previously the merge silently failed.
+- Fixed a crash that could occur while computing a place's speed statistics.
+- Built with the iOS 27 SDK.
+
 ## 1.2.26 — 2026-08-20
 
 
