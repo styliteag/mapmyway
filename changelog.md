@@ -5,6 +5,20 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.28 — 2026-09-20
+
+
+**Deutsch**
+
+- Wartungs-Build: keine funktionalen Änderungen in der App.
+- Neue Release-Pipeline (App Store Connect CLI) — dieser Build prüft, dass Testnotizen und die Beta-Verteilung automatisch ankommen.
+
+
+**English**
+
+- Maintenance build: no functional changes in the app.
+- New release pipeline (App Store Connect CLI) — this build verifies that test notes and beta distribution arrive automatically.
+
 ## 1.2.27 — 2026-09-15
 
 
