@@ -5,6 +5,24 @@ description: What changed in each MapMyWay release.
 
 # Changelog
 
+## 1.2.29 — 2026-10-07
+
+
+**Deutsch**
+
+- Aktualisierte Aufzeichnungs-Engine mit vielen Stabilitäts- und Akku-Korrekturen, u. a. gegen „endlose“ Fahrten, die nicht mehr enden.
+- Die Datenbank prüft und repariert sich beim Start selbst. Bei großen Verläufen kann der erste Start nach dem Update einige Minuten „Datenbank wird aktualisiert…“ zeigen – lass die App dabei bitte geöffnet.
+- Volle Speicher und Speicherfehler werden jetzt erkannt und protokolliert.
+- Tipp: Mach vor dem Update ein Backup im Cloud-Tab.
+
+
+**English**
+
+- Updated recording engine with many stability and battery fixes, including trips that never ended.
+- The database now checks and repairs itself at launch. With a large history, the first launch after the update may show "Updating database…" for a few minutes — please keep the app open.
+- Full storage and storage errors are now detected and logged.
+- Tip: make a backup in the Cloud tab before updating.
+
 ## 1.2.28 — 2026-09-20
 
 
